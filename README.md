@@ -1,5 +1,5 @@
 
-# Lab Task 6 – Combined Scenarios
+# Ex-6-Combined-Scenarios
 
 ## Aim
 To explore the complete UX design process by ideating solutions, writing user stories and scenarios, developing user flows, and designing information architecture using a known UX problem.
